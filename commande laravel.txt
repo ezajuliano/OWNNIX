@@ -1,0 +1,64 @@
+scraphtable
+https://www.toptal.com/laravel/restful-laravel-api-tutorial
+
+paygate
+
+php artisan make:migration create_nomtable_table
+
+php artisan make:migration
+
+php artisan make:model
+
+php artisan make:controller
+
+
+php artisan make:migration create_users_table --create=users
+
+composer dump-autoload
+
+
+
+Assivito (VALIDATION CAISSE ) 
+
+validation 
+
+visa GAE
+
+
+ADRANI
+
+0202100003
+
+koussade joela 300.000   02200010011
+
+anoumou jose 200.000
+
+0200003189    300.000
+
+koussade benoit   200.000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
